@@ -1,0 +1,35 @@
+{
+  "name": "ghiraldi-views-engine",
+  "description": "The views engine allows creates an abstraction for views, so any templating engine can be used.",
+  "tags": [
+    "ghiraldi",
+    "views",
+    "template"
+  ],
+  "version": "0.0.7",
+  "author": {
+    "name": "John O'Connor",
+    "email": "sax1johno@gmail.com"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "./lib/",
+  "dependencies": {
+    "mongoose": "*",
+    "underscore": "*",
+    "nodeunit": "*",
+    "consolidate": "*"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/sax1johno/ghiraldi-views-engine.git"
+  },
+  "_id": "ghiraldi-views-engine@0.0.7",
+  "_from": "ghiraldi-views-engine@0.0.7",
+  "readme": "ghiraldi-views-engine\n========================\n\nThe views engine allows creates an abstraction for views, so any templating engine can be used.",
+  "dist": {
+    "shasum": "d954a7e75f43a819592271929dfd0bdb745436fd"
+  }
+}
